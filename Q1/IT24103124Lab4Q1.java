@@ -5,7 +5,7 @@ public class IT24103124Lab4Q1{
  
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter a number: ");
+        System.out.print("Enter a number: ");
         int number = input.nextInt();
 
         //Check if the number is positive, negative or zero
